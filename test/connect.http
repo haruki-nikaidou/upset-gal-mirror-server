@@ -1,0 +1,7 @@
+GET http://localhost:3000/shinnku/win
+Accept: application/json
+
+###
+GET https://shinnku.com/api/download/mkw12345/win/白光的伐鲁希亚~何等美好的希望~.7z
+
+###
